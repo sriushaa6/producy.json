@@ -1,0 +1,72 @@
+[
+    {
+        "productID": "101",
+        "name": "Galaxy S22",
+        "brand": "Samsung",
+        "category": "Electronics",
+        "price": "$799.99",
+        "description": "Samsung Galaxy S22 with 120Hz Dynamic AMOLED display, 50MP camera, and Exynos 2200 chipset for fast performance.",
+        "ratings": 4.7,
+        "imageURL": "samgals22-800x800.avif"
+    },
+    {
+        "productID": "102",
+        "name": "iPhone 14",
+        "brand": "Apple",
+        "category": "Electronics",
+        "price": "$999.99",
+        "description": "Apple iPhone 14 featuring A16 Bionic chip, 48MP camera system, and Ceramic Shield for enhanced durability.",
+        "ratings": 4.8,
+        "imageURL": "310715_0_qf1n9k.webp"
+    },
+    {
+        "productID": "103",
+        "name": "Pixel 7 Pro",
+        "brand": "Google",
+        "category": "Electronics",
+        "price": "$899.99",
+        "description": "Google Pixel 7 Pro with Google Tensor G2 chip, 50MP camera, and a 120Hz LTPO OLED display for smooth visuals.",
+        "ratings": 4.6,
+        "imageURL": "assets_marvansmarvansassets_marvansPixel 7pro18e99acad6a18f5d093f3419184d05c0d.webp"
+    },
+    {
+        "productID": "104",
+        "name": "OnePlus 10 Pro",
+        "brand": "OnePlus",
+        "category": "Electronics",
+        "price": "$899.00",
+        "description": "OnePlus 10 Pro with Snapdragon 8 Gen 1 processor, 120Hz Fluid AMOLED display, and a 50MP triple camera setup.",
+        "ratings": 4.5,
+        "imageURL": "310715_0_qf1n9k.webp"
+    },
+    {
+        "productID": "105",
+        "name": "Xiaomi Mi 11 Ultra",
+        "brand": "Xiaomi",
+        "category": "Electronics",
+        "price": "$749.99",
+        "description": "Xiaomi Mi 11 Ultra with a 108MP primary camera, Snapdragon 888 chipset, and a 6.81-inch AMOLED display.",
+        "ratings": 4.4,
+        "imageURL": "310715_0_qf1n9k.webp"
+    },
+    {
+        "productID": "106",
+        "name": "Sony Xperia 1 IV",
+        "brand": "Sony",
+        "category": "Electronics",
+        "price": "$1,299.99",
+        "description": "Sony Xperia 1 IV with a 4K OLED display, Snapdragon 8 Gen 1 processor, and exceptional pro-grade camera features.",
+        "ratings": 4.9,
+        "imageURL": "310715_0_qf1n9k.webp"
+    },
+    {
+        "productID": "107",
+        "name": "Motorola Edge 30 Pro",
+        "brand": "Motorola",
+        "category": "Electronics",
+        "price": "$749.99",
+        "description": "Motorola Edge 30 Pro with Snapdragon 8 Gen 1, 50MP triple camera system, and a 144Hz OLED display.",
+        "ratings": 4.3,
+        "imageURL": "310715_0_qf1n9k.webp"
+    }
+  ]
